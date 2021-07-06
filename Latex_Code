@@ -1,0 +1,175 @@
+\documentclass{resume} % Use the custom resume.cls style
+\usepackage{multicol}
+\usepackage{fontawesome}
+\usepackage[hidelinks]{hyperref}
+\renewcommand*{\emailsymbol}         {{\small\faEnvelopeO}~} 
+
+\usepackage[left=0.75in,top=0.8in,right=0.75in,bottom=0.6in]{geometry} % Document margins
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{Erik S. Katovich} % Your name
+\address{427 Lorch St., Madison WI, USA 53706} % Your address
+%\address{123 Pleasant Lane \\ City, State 12345} % Your secondary addess (optional)
+\address{\faEnvelopeO{ ekatovich@wisc.edu} \hspace{.3cm}   \href{ekatovich.github.io}{\faExternalLink \hspace{.03cm} ekatovich.github.io}  \hspace{.3cm}  \faMobile{ 763-732-9813}} 
+
+\begin{document}
+
+\begin{rSection}{Education}
+
+{\bf University of Wisconsin-Madison} \hfill {\em 2017-present} 
+\\ PhD Candidate in Agricultural and Applied Economics 
+\\ MS in Agricultural and Applied Economics \\
+\\{\bf Universidade Estadual de Campinas (Unicamp)} \hfill {\em 2016-2017}
+\\ Fulbright Research Fellow   \\
+\\{\bf University of Minnesota-Twin Cities}  \hfill {\em 2015} 
+\\ BS in Economics, \textit{summa cum laude, Phi Beta Kappa} 
+
+\end{rSection}
+
+\begin{rSection}{Research Fields}
+ Development Economics, Resource Economics, Political Economy
+\end{rSection}
+
+\begin{rSection}{RESEARCH IN PROGRESS:}
+The Presource Curse: Anticipation, Disappointment, and Governance after Oil Discoveries (JMP)
+\smallskip 
+
+Can Natural Resources Promote Industrialization? Firm-Level Evidence from an Industrial Policy in Brazil 
+\smallskip 
+
+Are Workers Cursed by Resources? Earnings, Education, and Inequality through Oil Boom and Bust \textit{(with Dominic Parker and Steven Poehlekke)} \smallskip 
+
+Local Politicians, Special Interests, and Deforestation in the Brazilian Amazon \textit{(with Fanny Moffette)} \smallskip 
+
+\end{rSection}
+
+\begin{rSection}{PEER-REVIEWED PUBLICATIONS}\\
+The Relation Between Labor Productivity and Wages in Brazil: A Sectoral Analysis. \textit{Nova Economia}, Vol. 28, No. 1, pg. 7-38 (2018). \textit{(with Alexandre Gori Maia)}
+\smallskip
+
+Are GMO Policies ``Trade Related"? Empirical Analysis of Latin America. \textit{Applied Economic Perspectives and Policy}, Vol. 39, No. 2, pg. 286-312 (2017). \textit{(with Pamela Smith)}
+
+\end{rSection}
+
+\begin{rSection}{WORKING PAPERS:}
+What Do We Really Know About the Impacts of Improved Grain Legumes and Dryland Cereals: A Critical Review of Impact Studies, \textit{ICRAF Working Paper Series}, No. 295, World Agroforestry-Nairobi (2019) \textit{(with Kai Mausch, Karl Hughes, Michael Hauser, and Andrew Feist)}
+
+\end{rSection}
+
+\begin{rSection}{Teaching Experience}
+Teaching Assistant, \textit{Growth and Development of Nations in the Global Economy} \hfill \textit{Fall 2018} \\ 
+Received University-wide \textit{Early Excellence in Teaching Award}
+\end{rSection}
+
+\pagebreak 
+
+\begin{rSection}{RESEARCH EXPERIENCE}
+\textbf{Research Assistant to Paul Dower, Emilia Tjernstr\"{o}m, \& Laura Schechter} \hfill \textit{2019-2020}\\
+Department of Agricultural and Applied Economics, UW Madison \hfill \textit{Madison, WI}
+\smallskip 
+
+\textbf{Visiting Researcher} \hfill \textit{June-August 2019}\\
+Institute of Economics, Federal University of Rio de Janeiro \hfill \textit{Rio de Janeiro, Brazil}
+\smallskip 
+
+\textbf{Impact Evaluation Fellow} \hfill \textit{June-August 2018}\\
+World Agroforestry Center (ICRAF) \hfill \textit{Nairobi, Kenya}
+\smallskip 
+
+\textbf{Technical Training Grantee} \hfill \textit{January-July 2017}\\		
+Unicamp, S\~ao Paulo Research Association (FAPESP) \hfill \textit{Campinas, Brazil}
+\smallskip 
+
+\textbf{Fulbright Research Fellow} \hfill \textit{February-December 2016}\\	
+Center for Agricultural and Environmental Economics, Unicamp \hfill \textit{Campinas, Brazil}
+\smallskip 
+
+\textbf{Field Survey Coordinator} \hfill \textit{June-August 2014}\\              
+Winrock International-Nepal \hfill \textit{Kathmandu, Nepal}
+\smallskip 
+
+\textbf{Undergraduate Research Assistant to Pamela Smith} \hfill \textit{June-December 2012}\\					                
+Department of Applied Economics, University of Minnesota \hfill \textit{St. Paul, MN}
+\end{rSection}
+
+\begin{rSection}{OTHER PROFESSIONAL EXPERIENCE}
+\textbf{Bilingual Immigrant Legal Services Assistant}  \hfill \textit{September-December, 2015}\\					                
+International Institute of Minnesota \hfill \textit{St. Paul, MN}
+\smallskip 
+
+\textbf{Refugee and Immigrant Program Intern} (asylum-seeker interviews) \hfill \textit{June-December 2013}\\					   
+The Advocates for Human Rights \hfill \textit{Minneapolis, MN}
+\end{rSection}
+
+\begin{rSection}{CONFERENCES AND PRESENTATIONS}
+2021 AAEA (Planned), AERE (Online), WEAI (Online); 2019 Hoover Institution (Washington D.C.); 2017 ANPEC (Natal, Brazil); 2016 COES-LSE (Santiago, Chile)
+\end{rSection}
+
+\begin{rSection}{GRANTS AND FELLOWSHIPS}
+Doctoral Research Travel Grant, UW Madison (\$1500) \hfill \textit{2021} \\
+Tinker Nave Latin American Studies Field Research Grant, UW Madison (\$2300) \hfill \textit{2019 \& 2021} \\
+IRIS Graduate Student Summer Fieldwork Award, UW Madison (\$3,000) \hfill \textit{2019} \\
+University Graduate Fellowship, UW Madison (\$34,500$\times$2)\hfill \textit{2017 \& 2020}\\
+Technical Training Grant, S\~ao Paulo Research Association (FAPESP) (\$1,000) \hfill \textit{2017}\\
+Fulbright Research Grant to Brazil (\$16,000) \hfill \textit{2016}\\
+Undergraduate Research Opportunity Grants (\$1,700$\times$2) \hfill \textit{2012 \& 2014}
+\end{rSection}
+
+\begin{rSection}{AWARDS, MEMBERSHIP, AND SERVICE}
+\textbf{Awards}\\
+Bromley Prize for Best Dissertation Paper, UW Madison AAE \hfill \textit{2021} \\
+Early Excellence in Teaching Award, UW Madison \hfill \textit{2020} \\
+Best Undergraduate Thesis, Minnesota Economic Association \hfill \textit{2015}\\
+Gorence Endowed Scholarship in Economics, U of MN Economics \hfill \textit{2013 \& 2014}\\
+Presidential Merit Scholarship, U of MN \hfill \textit{2011-2015}\\
+National AP Scholar \& National Merit Scholar\hfill \textit{2011}\\
+%National Merit Scholar \hfill \textit{2011}\\
+\smallskip 
+
+\textbf{Membership}\\
+Affiliate, Latin American, Caribbean, and Iberian Studies, UW-Madison \hfill \textit{2020-present}\\
+Latin American and Caribbean Economic Association  \hfill \textit{2021-present}\\
+Agricultural and Applied Economics Association \hfill \textit{2020-present}\\
+Association of Environmental and Resource Economists \hfill \textit{2020-present}
+
+\textbf{Service}\\
+Graduate Student Representative, Dept. of Agricultural and Applied Economics \hfill \textit{2020-2021}\\
+Syllabus Diversity Review Committee, Dept. of Agricultural and Applied Economics \hfill \textit{2020-present} \\
+Coordinator, Development and Political Economy Workshop, UW-Madison \hfill \textit{2020-2021} 
+
+\textbf{Refereeing}\\
+\textit{Latin American Research Review}
+\end{rSection}
+
+\begin{rSection}{LANGUAGES AND COMPUTER SKILLS}
+\textbf{Languages}: English (native), Portuguese (fluent), Spanish (fluent)\\
+\textbf{Computer Skills}: Stata, R, \LaTeX, SurveyCTO, Git
+\end{rSection}
+
+\begin{rSection}{References}
+\begin{multicols}{3}
+\textbf{Ian Coxhead (Advisor)} \\
+Professor\\
+University of Wisconsin-Madison\\
+Phone: 608-262-6390\\
+Email: ian.coxhead@wisc.edu \\
+
+\textbf{Dominic Parker} \\
+Associate Professor\\
+University of Wisconsin-Madison\\
+Phone: 608-262-8916\\
+Email: dominic.parker@wisc.edu \\
+
+\textbf{Alexandre Gori Maia} \\
+Professor\\
+Unicamp\\
+Phone: $+$55(19)35215716\\
+Email: gori@unicamp.br
+\end{multicols}\\
+
+\end{rSection}
+
+\hline 
+\textbf{Last Update:} May, 2021
+
+\end{document}
